@@ -37,4 +37,4 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning front-end stack (html, css, javascript, reactjs...)
+🌱 I’m currently learning front-end stack (html, css, javascript, reactjs...)
