@@ -1,4 +1,4 @@
-### Hi there, I'm [Magdiel!](https://www.linkedin.com/in/magdielndantas/) 👋.
+### Hi there, I'm [Magdiel](https://www.linkedin.com/in/magdielndantas/)! 👋.
 
 
 <br/>
