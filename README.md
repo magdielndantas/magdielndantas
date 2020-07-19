@@ -24,5 +24,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning front-end stack (html, css, javascript and more...)
-- 👯 I’m looking to collaborate on OpenSource projects
+🌱 I’m currently learning front-end stack (html, css, javascript and more...)
+<br/>
+👯 I’m looking to collaborate on OpenSource projects
