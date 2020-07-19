@@ -1,7 +1,4 @@
 ### Hi there, I'm [Magdiel](https://www.linkedin.com/in/magdielndantas/)! 👋.
-
-
-<br/>
 <a href="https://twitter.com/magdielndantas">
   <img align="left" alt="Magdiel Dantas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -23,7 +20,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 🌱 I’m currently learning front-end stack (html, css, javascript and more...)
 <br/>
 👯 I’m looking to collaborate on OpenSource projects
