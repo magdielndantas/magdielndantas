@@ -20,6 +20,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning front-end stack (html, css, javascript and more...)
+🌱 Atualmente estudando stacks front-end  (html, css, javascript and more...)
 <br/>
-👯 I’m looking to collaborate on OpenSource projects
+👯 Buscando contribuir com projetos OpenSource
