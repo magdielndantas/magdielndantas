@@ -1,4 +1,4 @@
-### Hi there, I'm [Magdiel](https://www.linkedin.com/in/magdielndantas/)! 👋.
+### Olá, me chamo [Magdiel](https://www.linkedin.com/in/magdielndantas/) e é um prazer ter você por aqui! 👋.
 <a href="https://twitter.com/magdielndantas">
   <img align="left" alt="Magdiel Dantas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
