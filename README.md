@@ -29,6 +29,6 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Atualmente estudando stacks front-end  (html, css, javascript, reactjs e etc...)
+🌱 Atualmente estudando stacks front-end e back-end (html, css, javascript, reactjs, sql, node e etc...)
 <br/>
 👯 Buscando contribuir com projetos OpenSource
