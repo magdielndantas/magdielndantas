@@ -31,6 +31,6 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 <br/>
 👯 Buscando contribuir com projetos OpenSource
 <br/>
-📫 Como entrar em contato comigo: [magdielndantas@gmail.com](mailto:magdielndantas@gmail.com)
+📫 Como entrar em contato comigo: <a href="mailto:magdielndantas@gmail.com">magdielndantas@gmail.com</a>
 <br/>
 ⚡ Fato engraçado: tenho miopia, mas não uso óculos
