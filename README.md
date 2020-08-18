@@ -34,3 +34,16 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 📫 Como entrar em contato comigo: <a href="mailto:magdielndantas@gmail.com">magdielndantas@gmail.com</a>
 <br/>
 ⚡ Fato engraçado: tenho miopia, mas não uso óculos
+<br/>
+<br/>
+<br/>
+<table align='center'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=magdielndantasi&theme=radical&layout=compact'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=magdielndantasi&show_icons=true&theme=radical'>
+    </td>
+  </row>
+</table>
