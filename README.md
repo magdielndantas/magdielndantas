@@ -40,10 +40,10 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 <table align='center'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=magdielndantas&theme=radical&layout=compact'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=magdielndantas&theme=graywhite&layout=compact'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=magdielndantas&show_icons=true&theme=radical'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=magdielndantas&show_icons=true&theme=graywhite'>
     </td>
   </row>
 </table>
