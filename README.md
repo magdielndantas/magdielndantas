@@ -50,7 +50,6 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
   <img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/>&nbsp;
    </p>
 <br/>
-<br/>
 <table align='left'>
   <row>
     <td>
