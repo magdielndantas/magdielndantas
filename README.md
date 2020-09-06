@@ -43,7 +43,7 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="Typescript" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgre.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="ReactJS" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg" alt="Postgres" width="40" height="40"/>&nbsp;
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" width="40" height="40"/>&nbsp;
