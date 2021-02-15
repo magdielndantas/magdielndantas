@@ -1,6 +1,6 @@
 ### Olá, me chamo [Magdiel](https://www.linkedin.com/in/magdielndantas/) e é um prazer ter você por aqui! 👋.
 
-Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e aplicações web. Técnico em informática formado pelo Instituto Federal do Rio Grande do Norte, com pequenas experiências como web designer, designer gráfico e que já participou do desenvolvimento de web rádios, blogs e afins. Estudando para aprimoramento das habilidades de desenvolvimento
+Aspirante à UX Desing, sempre envolvido com projetos a ver com design gráfico e aplicações web. Técnico em informática formado pelo Instituto Federal do Rio Grande do Norte, com pequenas experiências como web designer, designer gráfico e que já participou do desenvolvimento de web rádios, blogs e afins. Estudando para aprimoramento das habilidades de desenvolvimento web, ux/ ui design
 
 <a href="mailto:magdielndantas@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -27,7 +27,7 @@ Aspirante à desenvolvedor, sempre envolvido com projetos a ver com design e apl
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-🌱 Atualmente estudando stacks front-end e back-end (html, css, javascript, reactjs, sql, node e etc...)
+🌱 Atualmente estudando front-end (um pouquinho de backend), ux e ui design (html, css, javascript, reactjs, sql, node e etc...)
 <br/>
 👯 Buscando contribuir com projetos OpenSource
 <br/>
