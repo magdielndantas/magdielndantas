@@ -1,7 +1,7 @@
 ### Olá, eu sou o Magdiel! 👋 É um prazer ter você por aqui.
 
 <a href="mailto:magdielndantas@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/magdielndantas/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/magdielndantas/"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.0/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/magdielndantas/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/instagram.svg" /></a>
 
 <br />
@@ -38,7 +38,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência ou estou est
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/typescript.svg" alt="TypeScript" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/react.svg" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/nodedotjs.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/wordpress.svg" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/elementor.svg" alt="Elementor" width="40" height="40"/>&nbsp;
