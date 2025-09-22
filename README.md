@@ -12,8 +12,8 @@ Sou um profissional multidisciplinar com experiência em **Design Gráfico**, **
 
 ### 🎯 Foco Atual e Objetivos
 
-* 🌱 Aprimorando conhecimentos em **UX/UI Design** e **Desenvolvimento Mobile**.
-* 🚀 Estudando o ecossistema **JavaScript**: React.js, React Native, Node.js e TypeScript.
+* 🌱 Focado em **Desenvolvimento Mobile** com **Flutter** e aprimorando minhas habilidades em **UX/UI Design**.
+* 🚀 Estudando também o ecossistema **JavaScript** para aplicações web (React.js, Node.js, TypeScript).
 * 👯 Buscando ativamente projetos **Open Source** para colaborar e aprender.
 * 📫 Aberto a propostas de trabalho e freelance. Entre em contato: **magdielndantas@gmail.com**.
 
@@ -31,10 +31,11 @@ Aqui estão algumas das tecnologias com as quais tenho experiência ou estou est
 
 **Desenvolvimento Web e Mobile:**
 <p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" alt="WordPress" width="40" height="40"/>&nbsp;
@@ -43,7 +44,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência ou estou est
 **Automação e Marketing:**
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/n8n.svg" alt="n8n" width="40" height="40"/>&nbsp;
-  </p>
+</p>
 
 ---
 
