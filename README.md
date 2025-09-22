@@ -5,10 +5,9 @@
 <a href="https://www.instagram.com/magdielndantas/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/instagram.svg" /></a>
 
 <br />
+<br />
 
 Sou um profissional multidisciplinar com experiência em **Design Gráfico**, **Desenvolvimento Web** e **Marketing Digital**. Formado como Técnico em Informática pelo IFRN, estou em transição de carreira, buscando ativamente oportunidades para aplicar e aprofundar minhas habilidades em **Desenvolvimento Mobile** e **UX/UI Design**.
-
----
 
 ### 🎯 Foco Atual e Objetivos
 
@@ -18,8 +17,6 @@ Sou um profissional multidisciplinar com experiência em **Design Gráfico**, **
 * 📫 Aberto a propostas de trabalho e freelance. Entre em contato: **magdielndantas@gmail.com**.
 * ⚡ **Curiosidade:** Tenho surdez severa no ouvido direito por causa de um São João!
  
-
----
 
 ### 🛠️ Ferramentas e Tecnologias
 
@@ -53,7 +50,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência ou estou est
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.16.0/icons/googleanalytics.svg" alt="ga4" width="40" height="40"/>&nbsp;
 </p>
 
-<p align="center">
+<p>
   <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdielndantas&theme=graywhite&layout=compact&hide_border=true">
   <img height="172" src="https://github-readme-stats.vercel.app/api?username=magdielndantas&show_icons=true&theme=graywhite&hide_border=true">
 </p>
